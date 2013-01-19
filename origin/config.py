@@ -1,11 +1,11 @@
 #coding: utf-8
 
 #: basic config
-project_codename = 'project_codename'
+project_codename = 'origin'
 
 
 #: enabled blueprints
-blueprints = []
+blueprints = ['foo']
 
 #: debug
 DEBUG = True
